@@ -21,6 +21,7 @@ A production-ready Linux server configured from scratch with security hardening,
 | [02-docker.md](02-docker.md) | Docker installation and configuration |
 | [03-servicios.md](03-services.md) | Portainer, N8N, Dashdot deployment |
 | [04-vpn.md](04-vpn.md) | Self-hosted WireGuard VPN with wg-easy |
+| [05-services-dashboard.md](05-services-dashboard.md) | Homepage dashboard deployment and configuration |
 
 ## Key Security Measures
 
