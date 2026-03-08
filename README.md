@@ -19,7 +19,7 @@ A production-ready Linux server configured from scratch with security hardening,
 |------|-------------|
 | [01-hardening.md](01-hardening.md) | User setup, SSH hardening, UFW firewall, Fail2ban |
 | [02-docker.md](02-docker.md) | Docker installation and configuration |
-| [03-servicios.md](03-servicios.md) | Portainer, N8N, Dashdot deployment |
+| [03-servicios.md](03-services.md) | Portainer, N8N, Dashdot deployment |
 | [04-vpn.md](04-vpn.md) | Self-hosted WireGuard VPN with wg-easy |
 
 ## Key Security Measures
