@@ -13,6 +13,7 @@ A production-ready Linux server configured from scratch with security hardening,
 - **VPN:** WireGuard via wg-easy
 - **Monitoring:** Dashdot
 - **Dashboard:** Homepage
+- **SIEM:** Grafana + Loki + Promtail
 
 ## Project Structure
 
@@ -23,6 +24,7 @@ A production-ready Linux server configured from scratch with security hardening,
 | [03-servicios.md](03-services.md) | Portainer, N8N, Dashdot deployment |
 | [04-vpn.md](04-vpn.md) | Self-hosted WireGuard VPN with wg-easy |
 | [05-services-dashboard.md](05-services-dashboard.md) | Homepage dashboard deployment and configuration |
+| [06-siem-grafana-loki.md](06-siem-grafana-loki.md) | SIEM with Grafana + Loki for real-time log monitoring |
 
 ## Key Security Measures
 
