@@ -14,6 +14,7 @@ A production-ready Linux server configured from scratch with security hardening,
 - **Monitoring:** Dashdot
 - **Dashboard:** Homepage
 - **SIEM:** Grafana + Loki + Promtail
+- **QWASP ZAP** Wrb Vulnerability Scanner
 
 ## Project Structure
 
@@ -25,6 +26,7 @@ A production-ready Linux server configured from scratch with security hardening,
 | [04-vpn.md](04-vpn.md) | Self-hosted WireGuard VPN with wg-easy |
 | [05-services-dashboard.md](05-services-dashboard.md) | Homepage dashboard deployment and configuration |
 | [06-siem-grafana-loki.md](06-siem-grafana-loki.md) | SIEM with Grafana + Loki for real-time log monitoring |
+| [07-owasp-zap.md](07-owasp-zap.md) | OWASP ZAP web vulnerability scanner 
 
 ## Key Security Measures
 
